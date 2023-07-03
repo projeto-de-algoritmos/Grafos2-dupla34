@@ -20,3 +20,6 @@ Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Uso 
 python3 exemplo.py
+
+## Link da apresentação
+link: [https://youtu.be/DJjUn5p9pgM](https://youtu.be/DJjUn5p9pgM)
